@@ -1,0 +1,28 @@
+// ZOOM
+Ctrl + 0 = tamanho da tela
+Ctrl + - = afastar
+Ctrl + + = aproximar
+
+// DUPLICAR OBJETOS
+Alt + arratas com mouse = clona apracheta.
+
+// REUGAS
+Ctrl + R
+
+// AGRUPAMENTO
+Ctrl + G = aguprar
+Ctrl + Shitf + G = desaguprar
+
+// MODO PRANCHETA
+Shift + O;
+- redimencionar a prancheta
+- posicionar
+Alt + arratas com mouse = clona apracheta.
+Alt + Shitf + arratas com mouse = clona apracheta alinhada.
+
+
+// ELIPSE
+Shift + Elipse = esfera perfeita
+ALt + Elipse = esfera a partir do centro
+ALt + Shift + Elipse = esfera a partir do centro
+
